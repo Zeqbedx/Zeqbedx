@@ -1,5 +1,6 @@
 👋 Hi, I’m @Zeqbedx
 
-👀 Not much to see here!
-
-📫 How to reach me: contact@zeqbed.xyz
+Im just your average developer who loves HTML/CSS and discord.py!
+Feel free to check out my website at https://www.zeqbed.xyz and
+if you need any questions add me on discord @Zeqbed or contact
+me via email @ contact@zeqbed.xyz
